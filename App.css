@@ -1,0 +1,17 @@
+.hero-section {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3');
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+}
+
+.nav-link {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s;
+}
